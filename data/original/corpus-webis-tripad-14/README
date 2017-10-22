@@ -1,0 +1,64 @@
+The json-files in this corpus follow the following key-value scheme. 
+Please note that if information was not available for a review, it has been omitted instead of initialized to a default value.  This has to be considered when parsing the files.
+Please also note, that we do not ensure the order in which information is presented other than semantic coherence. 
+Elements surrounded by [] can repeat for a file. 
+
+In the users.json: 
+
+[{"username": $namestring, 
+  "contributions": $numberOfContribs, 
+  "member_since": $datestring, 
+  "location": $locationstring, 
+  "age": $ageRangeString, 
+  "gender": $genderstring, 
+  "helpfulness": $numberOfTotalHelpfulnessVotes,
+  "miles": $numberOfMilesTravelled, 
+  "percentage": $numberOfPercentageOfWorldTravelled, 
+  "cities": $numberOfCitiesVisited, 
+  "countries": $numberOfCountriesVisited}]
+  
+In a hotel json-file: 
+
+{"name": $hotelNameString, 
+ "location": {"continent": $continentstring, 
+              "country": $countrystring, 
+              "province": $provincestring, 
+              "region": $regionstring, 
+              "city": $citystring}, 
+ "slim_ranking": $floatOfSlimRanking,    -- slim ranking is the value "hotel number x from y hotels"
+ "user_rating": $floatOfAverageUserRating,
+ "review_count": $numberOfTotalReviews, 
+ "detail_rating": {"location": $floatOfAverageLocationRating, 
+                   "sleep": $floatOfAverageSleepRating, 
+                   "rooms": $floatOfAverageRoomsRating, 
+                   "service": $floatOfAverageServiceRating, 
+                   "value": $floatOfAverageValueRating, 
+                   "cleanliness": $floatOfAverageCleanlinessRating},
+ "variance": {"excellent": $numberOfExcellentRatings, 
+              "very good": $numberOfVeryGoodRatings, 
+              "average": $numberOfAverageRatings, 
+              "poor": $numberOfPoorRatings, 
+              "terrible": $numberOfTerribleRatings}, 
+ "aka": $alsoKnownAsString, 
+ "stars": $numberOfStars, 
+ "description": $descriptionstring, 
+ "reviews": [{"id": $reviewIDAsNumber, 
+              "user": $userstring, 
+              "title": $titlestring, 
+              "rating": $floatOfReviewRating, 
+              "date": $datestring, 
+              "text": $reviewstring, 
+              "likes": {"liked": $likestring, 
+                        "disliked": $dislikestring}, 
+              "stay_parameters": $stayParametersAsString,       -- info such as travelled solo on business trip 
+              "detail_rating": {"value": $floatOfValueRating, 
+                                "location": $floatOfLocationRating, 
+                                "desk": $floatOfFrontDeskRating, 
+                                "rooms": $floatOfRoomsRating, 
+                                "cleanliness": $floatOfCleanlinessRating, 
+                                "service": $floatOfServiceRating, 
+                                "business": $floatOfBusinessServicesRating, 
+                                "sleep": $floatOfSleepRating, 
+                                "restaurant": $floatOfRestaurantRating, 
+                                "pool": $floatOfPoolRating}, 
+              "helpfulness": $numberOfHelpfulnessVotes}]}
