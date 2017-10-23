@@ -1,0 +1,376 @@
+{
+    "aka": "3c Hotel Venice",
+    "detail_rating": {
+        "cleanliness": 5.0,
+        "location": 5.0,
+        "rooms": 5.0,
+        "service": 5.0,
+        "sleep": 4.5,
+        "value": 5.0
+    },
+    "location": {
+        "continent": "Europe",
+        "country": "Italy",
+        "region": "Veneto"
+    },
+    "name": "3C",
+    "review_count": 484,
+    "reviews": [
+        {
+            "date": "June 8, 2010",
+            "detail_rating": {
+                "cleanliness": 5.0,
+                "location": 5.0,
+                "rooms": 5.0,
+                "service": 5.0,
+                "sleep": 5.0,
+                "value": 5.0
+            },
+            "id": 66916062,
+            "rating": 5.0,
+            "stay_parameters": "Stayed May 2010, traveled as a couple",
+            "text": "This bed and breakfast is just a couple minutes walk from St Marks Square. Located on a fairly busy side street where the windows open to the street below - however when windows and shutters are closed all outside noise is blocked out. Very contemporary furnishings and very clean. Air conditioning worked great. Fabio, the owner, made us capucinno's each morning and breakfast included our choice of great tasting pastries, fresh juice, a variety of cereals and fresh fruit.",
+            "title": "Charming B & B in great location!",
+            "user": "SMH43"
+        },
+        {
+            "date": "June 6, 2010",
+            "detail_rating": {
+                "cleanliness": 5.0,
+                "location": 5.0,
+                "rooms": 5.0,
+                "service": 5.0,
+                "sleep": 5.0,
+                "value": 5.0
+            },
+            "id": 66649679,
+            "rating": 5.0,
+            "stay_parameters": "Stayed May 2010, traveled as a couple",
+            "text": "This is going to sound very similar but I must echo all the other positive comments about the 3C and Fabio. My husband and I stayed for 4 nights in early May and our experience was exactly what we were looking for in a vacation. As previous reviewers have noted, the location is excellent. It's very convenient to the liveliness of San Marco while being quiet and removed at the same; it truly was an \"oasis\" after our long walks through the streets and alleys of Venice. Our superior room was large, comfortable, and perfect for our needs. Fabio made us feel so welcome and was very accommodating in helping us find restaurants that matched our interests. Breakfast was delicious and plentiful. We cannot recommend the 3C highly enough to others looking for the ideal place to stay in Venice. We sincerely hope to return some day!",
+            "title": "Can't imagine a better place to stay in Venice!",
+            "user": "SoMATraveler"
+        },
+        {
+            "date": "June 4, 2010",
+            "detail_rating": {
+                "cleanliness": 5.0,
+                "location": 5.0,
+                "rooms": 3.0,
+                "service": 5.0,
+                "sleep": 5.0,
+                "value": 5.0
+            },
+            "id": 66420414,
+            "rating": 5.0,
+            "stay_parameters": "Stayed May 2010, traveled with friends",
+            "text": "Myself and two friends arrived in Venice at gone 3am after having trouble with cancelled flights due to volcanic ash. Called Fabio and he not only guided us into Venice as the last transport was about to leave but met us at Rialto and took us to 3c. I don't know of any other host who would go to so much trouble at that time of the morning. We were so glad to see him!! 3c is perfectly located for everything. Rooms very clean, breakfast excellent. What makes this place special if Fabio. What more can I say that hasn't been said before. I'd recommend anyone to book here and can't wait to return. Thank you Fabio.",
+            "title": "Perfect Trip",
+            "user": "Jessnet"
+        },
+        {
+            "date": "May 30, 2010",
+            "detail_rating": {
+                "cleanliness": 5.0,
+                "location": 5.0,
+                "rooms": 5.0,
+                "service": 5.0,
+                "sleep": 5.0,
+                "value": 5.0
+            },
+            "helpfulness": 1,
+            "id": 65814815,
+            "rating": 5.0,
+            "stay_parameters": "Stayed May 2010, traveled as a couple",
+            "text": "We stayed at the 3C for two nights in mid-May 2010. It is a fantastic place to stay. It is just around the corner from San Marco square, even closer to a bus stop.",
+            "title": "Fantastic B&B",
+            "user": "houseofno"
+        },
+        {
+            "date": "May 30, 2010",
+            "detail_rating": {
+                "cleanliness": 5.0,
+                "location": 5.0,
+                "rooms": 5.0,
+                "service": 5.0,
+                "sleep": 5.0,
+                "value": 5.0
+            },
+            "helpfulness": 1,
+            "id": 65798830,
+            "rating": 5.0,
+            "stay_parameters": "Stayed May 2010, traveled as a couple",
+            "text": "My husband was a bit skeptical when we got off the water bus and I told him to go down a narrow lane across from the Grand Canal (following the website directions) and then turn down into an even narrower one. His opinion changed 100% upon walking into our room. It was very spacious, comfortable and contemporary design.",
+            "title": "Perfect!",
+            "user": "quixote43"
+        },
+        {
+            "date": "July 2, 2010",
+            "detail_rating": {
+                "cleanliness": 5.0,
+                "location": 5.0,
+                "rooms": 5.0,
+                "service": 5.0,
+                "sleep": 5.0,
+                "value": 5.0
+            },
+            "id": 69487964,
+            "rating": 5.0,
+            "stay_parameters": "Stayed May 2010, traveled with friends",
+            "text": "Owner Fabio was great at hosting us and giving us very helpful tips about where to go, see, and eat in Venice. Nice, clean, and modern rooms. Will stay when I return to Venice and have already been recommending 3C to others!",
+            "title": "Great bed and breakfast that added to our wonderful experience in Venice!",
+            "user": "misscruz1"
+        },
+        {
+            "date": "June 29, 2010",
+            "detail_rating": {
+                "cleanliness": 5.0,
+                "location": 5.0,
+                "rooms": 5.0,
+                "service": 5.0,
+                "sleep": 4.0,
+                "value": 5.0
+            },
+            "id": 69095705,
+            "rating": 5.0,
+            "stay_parameters": "Stayed June 2010, traveled as a couple",
+            "text": "There is no wonder why this B&B is rated high in Venice. We stayed 2 nights couldn\u2019t have been more pleased. We arrived late, and Fabio was willing to wait up for us. The room was very clean and spacious, exactly what we were looking for. The location was absolutely perfect and super close to everything. The only complaint we might have about the room was the chandelier above our bed. When the family above us walked around late at night the glass would clang together and wake us up. Fabio was very helpful and pointed everything out on a map for us. The breakfast was just right for a day of sightseeing. This place was just perfect and couldn\u2019t see staying anywhere else!",
+            "title": "Adorable B&B with an amazing location",
+            "user": "LisandraD"
+        },
+        {
+            "date": "June 26, 2010",
+            "detail_rating": {
+                "cleanliness": 5.0,
+                "location": 5.0,
+                "rooms": 5.0,
+                "service": 5.0,
+                "sleep": 4.0,
+                "value": 5.0
+            },
+            "helpfulness": 1,
+            "id": 68708019,
+            "rating": 5.0,
+            "stay_parameters": "Stayed June 2010, traveled with family",
+            "text": "Thank you again TripAdvisor for yet another great find.",
+            "title": "Perfect everything!",
+            "user": "pigletthepug"
+        },
+        {
+            "date": "June 25, 2010",
+            "detail_rating": {
+                "cleanliness": 5.0,
+                "location": 5.0,
+                "rooms": 5.0,
+                "service": 5.0,
+                "sleep": 4.0,
+                "value": 4.0
+            },
+            "id": 68664065,
+            "rating": 5.0,
+            "stay_parameters": "Stayed June 2010, traveled as a couple",
+            "text": "We stayed 1 night at 3c in June. We are father, mother, 2 yong children, and a babysitter.",
+            "title": "Cute B&B with friendly owner and staff and a delicious breakfast every morning!",
+            "user": "kevinconrad"
+        },
+        {
+            "date": "June 8, 2010",
+            "detail_rating": {
+                "cleanliness": 4.0,
+                "location": 5.0,
+                "rooms": 4.0,
+                "service": 4.0,
+                "sleep": 4.0,
+                "value": 4.0
+            },
+            "id": 66924156,
+            "rating": 5.0,
+            "stay_parameters": "Stayed April 2010, traveled with family",
+            "text": "Fabio and Eleonora got everything right. Location cant be beat. 2 minute FLAT walk from San Zaccaria-Danieli stop. 2 minute walk to San Marco.",
+            "title": "A home away from home - Perfecto!",
+            "user": "Rina_Dolce_VIta"
+        },
+        {
+            "date": "May 27, 2010",
+            "detail_rating": {
+                "cleanliness": 5.0,
+                "location": 5.0,
+                "rooms": 5.0,
+                "service": 5.0,
+                "sleep": 5.0,
+                "value": 5.0
+            },
+            "helpfulness": 1,
+            "id": 65527027,
+            "rating": 5.0,
+            "stay_parameters": "Stayed May 2010, traveled as a couple",
+            "text": "We were so happy with our stay at 3C! It is located 5 minutes from St Marks Square but on a quite side street. The location is ideal. We were minutes from everything which is good when you are doing walking on foot. We did not have to cross any bridges getting off the water bus from the airport. The B&B is very clean and spacious for a room in Europe. Everything is newly remodled at 3C. Fabio was wonderful. He helped us navigate our way through Venice which can be tricky. In addition, he recommened great restaurants that helped us avoid tourist traps. Fabio makes the best cappuccino! Breakfast was great. There was a good assortment of pastries, juice, yogurt and fruit. Fabio will also make toast with a variety of meat and cheeses. Thank you Fabio, you are a wonderful and gracious host. We would love to stay at your B&B again one day.",
+            "title": "Loved staying at 3C",
+            "user": "Margenau"
+        },
+        {
+            "date": "May 17, 2010",
+            "detail_rating": {
+                "cleanliness": 5.0,
+                "location": 5.0,
+                "rooms": 5.0,
+                "service": 5.0,
+                "sleep": 5.0,
+                "value": 5.0
+            },
+            "id": 64390927,
+            "rating": 5.0,
+            "stay_parameters": "Stayed February 2010, traveled as a couple",
+            "text": "J&D Margenau",
+            "title": "The Perfect place",
+            "user": "doney3030"
+        },
+        {
+            "date": "May 16, 2010",
+            "detail_rating": {
+                "cleanliness": 5.0,
+                "location": 5.0,
+                "rooms": 5.0,
+                "service": 5.0,
+                "sleep": 5.0,
+                "value": 5.0
+            },
+            "helpfulness": 2,
+            "id": 64326644,
+            "rating": 5.0,
+            "stay_parameters": "Stayed May 2010, traveled as a couple",
+            "text": "Myself and Sarah stayed here for a weekend break in feb. We found it a great location. Our host was Fabio (sorry for the late posting), a cool dude with an abundance of information. The breakfasts were plentyful and always served with a smile. The location of 3c is perfect and the hustle and bustle of Venice life..where you will not see a motor car for your duration, reminds you of the simple things in life. This is a place where you chill, relax and enjoy fine wines and great food. Will gladly return.",
+            "title": "Perfect Honeymoon stay in Venice!",
+            "user": "amandaOmaha"
+        },
+        {
+            "date": "May 8, 2010",
+            "detail_rating": {
+                "cleanliness": 5.0,
+                "location": 5.0,
+                "rooms": 5.0,
+                "service": 5.0,
+                "sleep": 5.0,
+                "value": 5.0
+            },
+            "helpfulness": 1,
+            "id": 63594762,
+            "rating": 5.0,
+            "stay_parameters": "Stayed April 2010, traveled as a couple",
+            "text": "We had a very nice stay at 3C bed and breakfast! This was our first time to Europe and we definitely enjoyed our stay! Fabio is a great host and has a sense of humor on top of it. Even for new European travelers we were able to find the hotel with no troubles and were happy to find it was in a great location just a few blocks from the water bus stop and close to the where the action was in Venice. Just follow the website's directions and you'll get there with no trouble!",
+            "title": "A truely great small B&B",
+            "user": "trvlfish"
+        },
+        {
+            "date": "May 6, 2010",
+            "detail_rating": {
+                "cleanliness": 5.0,
+                "location": 5.0,
+                "rooms": 5.0,
+                "service": 5.0,
+                "sleep": 5.0,
+                "value": 5.0
+            },
+            "helpfulness": 1,
+            "id": 63422472,
+            "rating": 5.0,
+            "stay_parameters": "Stayed April 2010, traveled with family",
+            "text": "The hotel was very clean, and breakfast was great. I would highly recommend accepting when Fabio asks if you would like some toast and a plate of meat and cheese. So yummy! Also Fabio recommended a great restaurant that we ate at on our last night - it\u2019s called Mascareta wine bar. It was a little tricky to find (or maybe we're just clueless!), but it was well worth the effort. I don't think there were any tourists in the restaurant and we had some of the best wine and best ravioli in all of Italy.",
+            "title": "Awesome Location",
+            "user": "mrkymrc"
+        },
+        {
+            "date": "August 12, 2010",
+            "detail_rating": {
+                "cleanliness": 5.0,
+                "location": 5.0,
+                "rooms": 5.0,
+                "service": 5.0,
+                "sleep": 5.0,
+                "value": 5.0
+            },
+            "id": 74955562,
+            "rating": 5.0,
+            "stay_parameters": "Stayed July 2010, traveled as a couple",
+            "text": "Everything was delightful with our stay at 3C. Location! - perfect. Breakfast! - perfect. Room! - perfect. This was my 2nd time in Venice and my husband's 1st time. 3C and its owners are fantastic. The room, Air-conditioned thank you, was roomy, delightful blend of modern and old architecture. Breakfast was fruit, buns, cheeses, juices, cafes, cereal... more choices than I would have at home. Available 24/7 was fresh fruit, cookies, treats. Restaurant recommendations were exactly what we wanted... away from the crowds and not so touristy. We will stay there again! Thank you for everything",
+            "title": "One of the best...",
+            "user": "four-from-nc"
+        },
+        {
+            "date": "August 2, 2010",
+            "detail_rating": {
+                "cleanliness": 5.0,
+                "location": 5.0,
+                "rooms": 5.0,
+                "service": 5.0,
+                "sleep": 5.0,
+                "value": 5.0
+            },
+            "id": 73466162,
+            "rating": 5.0,
+            "stay_parameters": "Stayed July 2010, traveled with family",
+            "text": "Great location, very helpful and friendly owner. The room was always clean and well prepared. About 2 mins from St Marks Square. Air conditioning was very welcome and great to be able to pop back in the heat of the day for a siesta.",
+            "title": "Fantastic B & B in central Venice",
+            "user": "listmaker90"
+        },
+        {
+            "date": "July 31, 2010",
+            "detail_rating": {
+                "cleanliness": 5.0,
+                "location": 5.0,
+                "rooms": 4.0,
+                "service": 5.0,
+                "sleep": 5.0,
+                "value": 4.0
+            },
+            "id": 73183041,
+            "rating": 5.0,
+            "stay_parameters": "Stayed June 2010, traveled as a couple",
+            "text": "Me and my wife spent 2 days in Venice. We arrived at Venice, around the hotel, at midnight. For our suprise, Fabio (the owner of the hotel) was looking for us near hotel. It was wonderful, because we were lost in Venice! The hotel is new, clean and confortable. The breakfast is excelent! Finally, the hotel is located next Piazza San Marco. The best location! We recommend this Hotel!. Gracie, Fabio!",
+            "title": "The owner makes the difference!",
+            "user": "EduardoSchmittJr_10"
+        },
+        {
+            "date": "July 13, 2010",
+            "detail_rating": {
+                "cleanliness": 5.0,
+                "location": 5.0,
+                "rooms": 5.0,
+                "service": 5.0,
+                "sleep": 5.0,
+                "value": 5.0
+            },
+            "id": 70753317,
+            "rating": 5.0,
+            "stay_parameters": "Stayed May 2010, traveled with friends",
+            "text": "I'll Thank Fabio and 3C for gave us an unforgettable memory. The space, the food and the service were really good!",
+            "title": "Everything is perfect!!",
+            "user": "yachimom"
+        },
+        {
+            "date": "July 12, 2010",
+            "detail_rating": {
+                "cleanliness": 5.0,
+                "location": 5.0,
+                "rooms": 5.0,
+                "service": 5.0,
+                "sleep": 4.0,
+                "value": 5.0
+            },
+            "id": 70693053,
+            "rating": 5.0,
+            "stay_parameters": "Stayed July 2010, traveled with family",
+            "text": "My husband and I as well as our 2 teenagers and 10-year old stayed at 3C for 4 nights. My 81 year-old in-laws were also guests. Fabio, the owner and designer, is a great host. A fountain of information, maker of cappucino's and lattes, breakfast purveyor and winning personality. The B&B's location is excellent - steps from the San Marco water taxi stop, close to everything! Our three rooms were immaculate, wonderfully air-conditioned, all with comfy beds and gorgeous bathrooms. The rooms are spacious, not in a small part owing to Fabio's design with is best described as \"Contemporary Venice.\" Modern meets original stonework with a great result. Yummy breakfast. Cookies/fresh fruit available all day. Highly recommend for location, comfort, attractiveness, spaciousness and friendly, helpful host. Great value. Don't forget that you pay in cash so plan ahead to avoid the frenzied ATM \"hunt.\"",
+            "title": "Great Place, Great Location, Wonderful Stay!",
+            "user": "vermonty"
+        }
+    ],
+    "slim_ranking": 0.0316301703163,
+    "user_rating": 5.0,
+    "variance": {
+        "average": 5,
+        "excellent": 426,
+        "poor": 2,
+        "terrible": 1,
+        "very good": 50
+    }
+}
